@@ -1,0 +1,14 @@
+{
+    "firstName": "Ingrid",
+    "lastName": "Wong",
+    "nickName": "sweet potato",
+    "privateName": false,
+    "picture": "file:///Users/15wongij1/Desktop/15wongij1.jpg",
+    "privatePicture": false,
+    "email": "ingridjaye.wong@mail.utoronto.ca",
+    "privateEmail": true,
+    "github": "15wongij1",
+    "privateGithub": true,
+    "superpower": "tripping over air",
+    "academicinterests": "20th century East Asian and Eastern European history"
+}
